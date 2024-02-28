@@ -1,0 +1,6 @@
+[submodule "University"]
+	path = University
+	url = https://github.com/MangoMag1c/University
+[submodule "Test_subrepository"]
+	path = Test_subrepository
+	url = https://github.com/MangoMag1c/Test_subrepository.git
